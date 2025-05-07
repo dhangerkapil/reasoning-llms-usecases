@@ -1,4 +1,4 @@
-# FSI Reasoning Use Case Examples
+# Reasoning Use Case Examples
 
 This repository contains a collection of use case examples demonstrating reasoning capabilities with large language models (LLMs) like O1. Each use case is designed to evaluate interpretable reasoning, dataset referencing, and audit-friendly outputs in financial and insurance domains.
 
