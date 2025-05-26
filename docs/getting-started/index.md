@@ -39,19 +39,19 @@ Introduction to fundamental concepts through text-based examples:
 
 #### Key Concepts
 - **Reasoning Levels**
-  - Low: Quick, straightforward responses
-  - Medium: Balanced analysis and explanation
-  - High: Deep, thorough analysis with detailed rationale
+    - Low: Quick, straightforward responses
+    - Medium: Balanced analysis and explanation
+    - High: Deep, thorough analysis with detailed rationale
 - **Model Interaction**
-  - Setting up chat completions
-  - Using developer messages
-  - Handling responses
-  - Managing tokens
+    - Setting up chat completions
+    - Using developer messages
+    - Handling responses
+    - Managing tokens
 - **Response Analysis**
-  - Understanding reasoning tokens
-  - Evaluating response quality
-  - Measuring performance
-  - Analyzing token usage
+    - Understanding reasoning tokens
+    - Evaluating response quality
+    - Measuring performance
+    - Analyzing token usage
 
 #### Best Practices
 - Clear and specific prompt engineering
@@ -64,21 +64,21 @@ Explore advanced capabilities including:
 
 #### Key Features
 - **Developer Messages**
-  - Setting context and goals
-  - Defining model behavior
-  - Controlling output format
+    - Setting context and goals
+    - Defining model behavior
+    - Controlling output format
 - **Structured Outputs**
-  - JSON schema definition
-  - Type validation
-  - Response formatting
+    - JSON schema definition
+    - Type validation
+    - Response formatting
 - **Function Calling**
-  - Function definition
-  - Parameter handling
-  - Response parsing
+    - Function definition
+    - Parameter handling
+    - Response parsing
 - **Vision Support**
-  - Image analysis
-  - Multi-modal reasoning
-  - Visual context integration
+    - Image analysis
+    - Multi-modal reasoning
+    - Visual context integration
 
 #### Use Cases
 - Data extraction and processing
@@ -119,14 +119,14 @@ Compare GPT and Reasoning models across various tasks:
 Before starting:
 1. Ensure you have an Azure account with OpenAI access
 2. Install required Python packages:
-   ```bash
-   pip install openai azure-identity python-dotenv
-   ```
+    ```bash
+    pip install openai azure-identity python-dotenv
+    ```
 3. Set up your `.env` file with:
-   ```
-   AZURE_OPENAI_ENDPOINT=your_endpoint
-   AZURE_OPENAI_API_KEY=your_key
-   ```
+    ```
+    AZURE_OPENAI_ENDPOINT=your_endpoint
+    AZURE_OPENAI_API_KEY=your_key
+    ```
 
 ## Use case model evaluation
 
@@ -143,9 +143,9 @@ Want to add a new use case? Follow these steps:
 
 1. Create a new directory under `usecases/`
 2. Include:
-   - README.md with overview
-   - prompt.md with example prompts
-   - in-depth analysis document
+    - README.md with overview
+    - prompt.md with example prompts
+    - in-depth analysis document
 3. Submit a pull request
 
 ## Getting Help
