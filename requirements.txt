@@ -6,3 +6,5 @@ notebook
 ipykernel
 requests
 matplotlib
+mkdocs
+mkdocs-material

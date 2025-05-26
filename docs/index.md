@@ -1,53 +1,76 @@
 ---
 title: Welcome
-description: Evaluate Reasoning Models for Your Generative AI Solutions
+description: Explore Reasoning Models Through Interactive Examples
 ---
 
-# Lab 333: Evaluating Reasoning Models for your Generative AI Solutions
+# Reasoning Models Workshop
 
+This workshop provides an interactive exploration of Reasoning Models using Jupyter notebooks and real-world use cases. Learn how to leverage Azure OpenAI's reasoning capabilities for complex analytical tasks and decision-making scenarios.
 
-!!! info "**Duration**: 75 minutes"
-    This workshop gives you a hand-on introduction to reasoning models from core concepts to practical usage in Azure AI Foundry. It has been created for use in both instructor-led (in-venue) and self-paced (at-home) usage. 
+## Workshop Structure
 
-## Learning Objectives
+The workshop is organized into two main sections:
 
-This workshop is designed to jumpstart your journey into understanding, and working with, reasoning models in generative AI. By the end of the journey you should be able to:
+### Getting Started
 
-1. Explain what reasoning models are, and how they work
-1. Deploy and explore reasoning models using Azure AI Foundry and GitHub
-1. Build intution for usage with low-code and code-first approaches
-1. Gain insights into patterns and practices for practical applications
+1. **Setup & Environment** - Learn how to set up your Azure OpenAI environment and configure the necessary credentials.
+2. **Basic Text Reasoning** - Explore fundamental concepts of reasoning models using simple text-based examples.
+3. **Advanced Features** - Dive into advanced capabilities including:
+   - Developer Messages
+   - Structured Outputs
+   - Function Calling
+   - Vision Support
+4. **Model Comparison** - Compare outputs between GPT and Reasoning models across different tasks.
 
+### Use Cases
 
-## Pre-Requisites
+Explore practical applications of reasoning models across various domains:
 
-1. GitHub Account - you can [signup](https://github.com/signup) for free.
-1. Azure Account - you can [signup](https://github.com/signup) for free.
-1. Familiarity with Python programming & Jupyter notebooks
-1. Familiarity with VS Code editors & commandline usage
-1. Familiarity with Generative AI applications and concepts
+- Credit Risk Assessment and Management
+- Customer Relationship Management
+- Data Analysis and Insights
+- Fraud Detection and Prevention
+- Insurance Claims Processing
+- Insurance Plan Analysis
+- Loan Agreement Analysis
+- Market Sentiment Analysis
+- Portfolio Optimization
+- Risk Assessment for Underwriting
+- Underwriting Analysis
 
-!!! quote "IN-VENUE ATTENDEES WILL GET A PRE-PROVISIONED AZURE SUBSCRIPTION"
-    
----
+## Key Features Covered
 
-## Lab Outline
+The notebooks demonstrate key capabilities of reasoning models:
 
-The content is structured in two parts - a core "Workshop" track with a bonus "Homework" track. The workshop track can be completed within 75 mins and is structured as four sections:
+| Feature | Description |
+|---------|-------------|
+| Developer Messages | Set reasoning goals, persona, and context |
+| Structured Outputs | Generate strictly formatted responses |
+| Context Windows | Handle large input and output contexts |
+| Reasoning Effort | Control the depth of analysis |
+| Vision Support | Process and analyze images |
+| Function Calling | Integrate with external tools and APIs |
 
-1. **Setup**: Create an Azure AI Foundry project with model deployments. Validate your setup.
-1. **Introduction**: Understand how reasoning models differ from general-purpose large language models. Build intuition for the tradeoffs made when choosing between them.
-1. **Ideation**: Start exploring model options in the Azure AI Foundry playground without code. Build intuition for reasoning effort and the impact it has on model performance.
-1. **Inference**: Move to a development enviroment for code-first exploration of scenarios. Build intuition for good and bad use cases, and best practices for prompting.
+## Prerequisites
 
-The homework track provides bonus content to help you continue the journey at your own pace. It will be updated over time - for now, it has one section:
+1. Azure Account with OpenAI access
+2. Python environment with required packages:
+   - openai
+   - azure-identity
+   - python-dotenv
+3. Basic understanding of:
+   - Python programming
+   - Jupyter notebooks
+   - Machine learning concepts
 
-1. **Implementation**: Think about how these learnings translate to building a real-world application. Build intuition for patterns and practices for efficient usage.
+## Getting Started
 
+1. Clone this repository
+2. Set up your environment variables in `.env`
+3. Start with the `00-setup-aoai.ipynb` notebook
+4. Follow the sequential notebooks to build your understanding
 
-## Keep Learning
-
-This workshop is designed to be a living resource to continue your learning journey.
+The notebooks are self-contained with detailed explanations and examples to help you understand each concept thoroughly.
 
 1. Walk away with a sandbox (and notebooks) that you can use, to experiment with application ideas, or to explore advanced reasoning concepts.
 1. Star or watch the repo for updates. We'll continue to add new labs and scenarios to keep pace with the fast-growing set of models and capabilities for reasoning.
@@ -55,6 +78,5 @@ This workshop is designed to be a living resource to continue your learning jour
 
 ## Questions or Comments?
 
-1. [File an issue](https://github.com/microsoft/BUILD25-LAB333/issues/new). We welcome feedback on ways to improve the workshop for future learners.
-1. [Join the Azure AI Foundry Discord](https://aka.ms/azureaifoundry/discord). Meet Azure AI community members and share insights.
-1. [Visit the Azure AI Foundry Developer Forum](https://aka.ms/azureaifoundry/forum). Get the latest updates on Azure AI Foundry.
+1. [File an issue](https://github.com/dhangerkapil/reasoning-llms-workshop/issues/new). We welcome feedback, bug reports, and suggestions to improve the workshop.
+2. [Visit the GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop) to star, watch, or contribute to the project.
