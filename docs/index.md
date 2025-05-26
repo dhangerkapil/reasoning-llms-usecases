@@ -5,11 +5,31 @@ description: Explore Reasoning Models Through Interactive Examples
 
 # Reasoning Models Workshop
 
-This workshop provides an interactive exploration of Reasoning Models using Jupyter notebooks and real-world use cases. Learn how to leverage reasoning model's capabilities for complex analytical tasks and decision-making scenarios.
+Welcome to the Reasoning Models Workshop!
+
+Reasoning models represent the next step in generative AI. While traditional LLMs like GPT excel at generating fluent responses, reasoning models are designed to:
+
+- Think through problems step by step
+- Follow multi-step logic
+- Deliver structured, explainable answers
+
+**Why does this matter?**
+
+In industries such as finance, insurance, healthcare, and law, it's not enough for AI to sound smart—it must:
+
+- Reason through complexity
+- Support real decisions
+- Trace and explain its logic
+
+That's where reasoning models come in.
+
+This workshop is designed to give you both understanding and hands-on experience. Whether you're from a low-code, code-first, or no-code background, you'll gain the tools and intuition to build powerful AI solutions that don't just talk—but think.
+
+You'll explore reasoning models through interactive Jupyter notebooks and real-world use cases, learning how to leverage their capabilities for complex analytical tasks and decision-making scenarios.
 
 ## Workshop Structure
 
-The workshop is organized into two main sections:
+The workshop is organized into sections:
 
 ### Getting Started
 
