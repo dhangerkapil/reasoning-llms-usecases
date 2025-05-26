@@ -1,3 +1,8 @@
+---
+title: Portfolio Optimization
+description: Learn how to optimize global multi-asset investment portfolios using data-driven reasoning
+---
+
 # 📘 Use Case Description: Global Multi-Asset Portfolio Optimization
 
 ## 🔍 What Is This Use Case About?

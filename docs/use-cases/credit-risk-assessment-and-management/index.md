@@ -1,3 +1,8 @@
+---
+title: Credit Risk Assessment
+description: Learn how banks assess mortgage loan applications using data-driven decision making
+---
+
 # 📘 Credit Risk Assessment – Use Case Overview
 
 ## What Is This Use Case About?

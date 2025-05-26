@@ -1,3 +1,8 @@
+---
+title: Loan Agreement
+description: Learn how to assess legal and financial risks in commercial loan agreements
+---
+
 # 📘 Use Case Description: Loan Agreement Risk Assessment and Due Diligence Analysis
 
 ## 🔍 What Is This Use Case About?
