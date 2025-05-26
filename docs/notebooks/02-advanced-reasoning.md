@@ -94,6 +94,6 @@ messages=[
 
 ## Next Steps
 
-1. Try the [Model Comparison](04-model-comparison.ipynb) notebook
+1. Try the [Model Comparison](03-model-comparison.ipynb) notebook
 2. Explore practical use cases
 3. Build your own applications

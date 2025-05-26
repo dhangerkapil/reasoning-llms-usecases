@@ -15,33 +15,96 @@ To get started with this workshop:
 ## Workshop Materials
 All workshop materials, including Jupyter notebooks, are available in the [GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop):
 
-### Notebooks
-- `00-setup-aoai.ipynb`: Environment setup and Azure OpenAI configuration
-- `01-text-reasoning.ipynb`: Basic text reasoning examples
-- `02-advanced-reasoning.ipynb`: Advanced features and techniques
-- `04-model-comparison.ipynb`: Comparing Reasoning Models with GPT models
+### 1. Setup & Environment (00-setup-aoai.ipynb)
+
+Learn how to set up your environment for working with reasoning models:
+
+#### Overview
+- Installing required Python packages
+- Setting up environment variables
+- Testing your Azure OpenAI connection
+- Understanding token usage and costs
+
+#### Key Concepts
+- Azure OpenAI endpoint and key configuration
+- Python package requirements
+- Environment variable management
+- Basic API connectivity testing
+- Token usage monitoring
+- Content filter results understanding
 
 ### 2. Basic Text Reasoning (01-text-reasoning.ipynb)
-Explore:
-- Core concepts of reasoning models
-- Text-based prompts and responses
-- Different reasoning levels (low, medium, high)
-- Comparing model outputs and performance
+
+Introduction to fundamental concepts through text-based examples:
+
+#### Key Concepts
+- **Reasoning Levels**
+  - Low: Quick, straightforward responses
+  - Medium: Balanced analysis and explanation
+  - High: Deep, thorough analysis with detailed rationale
+- **Model Interaction**
+  - Setting up chat completions
+  - Using developer messages
+  - Handling responses
+  - Managing tokens
+- **Response Analysis**
+  - Understanding reasoning tokens
+  - Evaluating response quality
+  - Measuring performance
+  - Analyzing token usage
+
+#### Best Practices
+- Clear and specific prompt engineering
+- Proper response handling and validation
+- Effective error management
 
 ### 3. Advanced Features (02-advanced-reasoning.ipynb)
-Master advanced capabilities:
-- Developer Messages for context setting
-- Structured Outputs for formatted responses
-- Function Calling for external integrations
-- Vision Support for image analysis
-- Multi-modal reasoning tasks
 
-### 4. Model Comparison (04-model-comparison.ipynb)
-Learn to:
-- Compare GPT and Reasoning model outputs
-- Evaluate response quality and accuracy
-- Analyze reasoning patterns and depth
-- Choose the right model for your use case
+Explore advanced capabilities including:
+
+#### Key Features
+- **Developer Messages**
+  - Setting context and goals
+  - Defining model behavior
+  - Controlling output format
+- **Structured Outputs**
+  - JSON schema definition
+  - Type validation
+  - Response formatting
+- **Function Calling**
+  - Function definition
+  - Parameter handling
+  - Response parsing
+- **Vision Support**
+  - Image analysis
+  - Multi-modal reasoning
+  - Visual context integration
+
+#### Use Cases
+- Data extraction and processing
+- Visual analysis and understanding
+- System integration and automation
+
+### 4. Model Comparison (03-model-comparison.ipynb)
+
+Compare GPT and Reasoning models across various tasks:
+
+#### Evaluation Criteria
+- **Clarity**: Organization, structure, and flow
+- **Accuracy**: Factual accuracy and precision
+- **Completeness**: Coverage and depth of analysis
+- **Analytical Depth**: Reasoning quality and insights
+- **Multi-Dataset Synthesis**: Data integration and patterns
+
+#### Usage Guidelines
+- Choose **GPT Models** for:
+  - General text generation
+  - Creative tasks
+  - Simple Q&A
+- Choose **Reasoning Models** for:
+  - Complex analysis
+  - Multi-step reasoning
+  - Structured outputs
 
 ## Prerequisites
 

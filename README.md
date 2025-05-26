@@ -50,9 +50,9 @@ Uses behavioral anomalies, transaction metadata, and rule-based compliance filte
 
 ---
 
-# Executing the Notebook to Compare Model Outputs
+# Get Started
 
-To run the notebook, follow these steps:
+To run the notebooks, follow these steps:
 
 1. **Clone the repository:**
     ```sh
@@ -87,4 +87,4 @@ To run the notebook, follow these steps:
     AZURE_OPENAI_API_KEY=your_api_key
     ```
 
-5. **Follow the instructions in the notebook to execute the cells and observe the results.**
+5. **Follow the instructions in the notebooks to execute the cells and observe the results.**

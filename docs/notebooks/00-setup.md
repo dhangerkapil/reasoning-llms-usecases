@@ -60,4 +60,4 @@ pip install openai azure-identity python-dotenv
 After completing this notebook, proceed to:
 1. [Basic Text Reasoning](01-text-reasoning.ipynb) to learn fundamental concepts
 2. [Advanced Features](02-advanced-reasoning.ipynb) to explore more capabilities
-3. [Model Comparison](04-model-comparison.ipynb) to understand model differences
+3. [Model Comparison](03-model-comparison.ipynb) to understand model differences
