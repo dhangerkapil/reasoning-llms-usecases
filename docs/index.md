@@ -5,7 +5,7 @@ description: Explore Reasoning Models Through Interactive Examples
 
 # Reasoning Models Workshop
 
-This workshop provides an interactive exploration of Reasoning Models using Jupyter notebooks and real-world use cases. Learn how to leverage Azure OpenAI's reasoning capabilities for complex analytical tasks and decision-making scenarios.
+This workshop provides an interactive exploration of Reasoning Models using Jupyter notebooks and real-world use cases. Learn how to leverage reasoning model's capabilities for complex analytical tasks and decision-making scenarios.
 
 ## Workshop Structure
 
@@ -62,13 +62,6 @@ The notebooks demonstrate key capabilities of reasoning models:
    - Python programming
    - Jupyter notebooks
    - Machine learning concepts
-
-## Getting Started
-
-1. Clone this repository
-2. Set up your environment variables in `.env`
-3. Start with the `00-setup-aoai.ipynb` notebook
-4. Follow the sequential notebooks to build your understanding
 
 The notebooks are self-contained with detailed explanations and examples to help you understand each concept thoroughly.
 

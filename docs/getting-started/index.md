@@ -1,6 +1,6 @@
 # Getting Started with Reasoning Models
 
-This workshop covers uses of Reasoning Models with Azure OpenAI. The workshop includes several example use cases demonstrating how to implement reasoning-based solutions for various business scenarios.
+This workshop covers uses of Reasoning Models. The workshop includes several example use cases demonstrating how to implement reasoning-based solutions for various business scenarios.
 
 ## Setup Instructions
 To get started with this workshop:
@@ -20,7 +20,6 @@ All workshop materials, including Jupyter notebooks, are available in the [GitHu
 - `01-text-reasoning.ipynb`: Basic text reasoning examples
 - `02-advanced-reasoning.ipynb`: Advanced features and techniques
 - `04-model-comparison.ipynb`: Comparing Reasoning Models with GPT models
-- Understand token usage and model responses
 
 ### 2. Basic Text Reasoning (01-text-reasoning.ipynb)
 Explore:
