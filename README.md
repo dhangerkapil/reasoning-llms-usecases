@@ -1,17 +1,20 @@
 # Reasoning Models Workshop Overview
 
-Reasoning models excel at complex problem-solving tasks and nuanced analysis that benefit from multi-step analysis or processing - as opposed to simple question-answering. So, how do you know if a reasoning model is the right fit for _your_ scenario? In this workshop, we'll take you from core concepts to code-based exploration of reasoning models on Azure AI Foundry.
-This repository contains a collection of use case examples demonstrating reasoning capabilities with large language models (LLMs) like O series. Each use case is designed to evaluate interpretable reasoning, dataset referencing, and audit-friendly outputs in financial and insurance domains.
+Reasoning models excel at complex problem-solving tasks and nuanced analysis that benefit from multi-step analysis or processing—unlike simple question-answering. How do you know if a reasoning model is the right fit for _your_ scenario? In this workshop, we'll take you from core concepts to code-based exploration of reasoning models on Azure AI Foundry.
+
+This repository contains a collection of use case examples demonstrating reasoning capabilities with large language models (LLMs) like the O series. Each use case is designed to evaluate interpretable reasoning, dataset referencing, and audit-friendly outputs in financial and insurance domains.
 
 ## Learning Objectives
 
-This workshop is designed to jumpstart your journey into understanding, and working with, reasoning models in generative AI. By the end of the journey you should be able to:
+This workshop is designed to jumpstart your journey into understanding and working with reasoning models in generative AI. By the end of the journey you should be able to:
 
-1. Understand Reasoning Models. What they are, how they work, and how they differ from chat LLMs like GPT models.
-1. Learn to deploy and explore reasoning models using Azure AI Foundry.
-1. Learn how to integrate reasoning models into your workflows using low code and code first approaches.
-1. Gain insights into patterns and practices for practical applications with xamples across industries that highlight practical applications of reasoning models.
-1. Compare outputs of reasoning models vs. GPT models to understand where each excels.
+1. **Understand Reasoning Models:** What they are, how they work, and how they differ from chat LLMs like GPT models.
+2. **Deploy and Explore:** Learn to deploy and explore reasoning models using Azure AI Foundry.
+3. **Integrate into Workflows:** Learn how to integrate reasoning models into your workflows using low-code and code-first approaches.
+4. **Patterns and Practices:** Gain insights into patterns and practices for practical applications with examples across industries.
+5. **Compare Outputs:** Compare outputs of reasoning models vs. GPT models to understand where each excels.
+
+---
 
 ## Use Cases
 
@@ -45,17 +48,19 @@ Assesses borrower creditworthiness using repayment history, credit scores, and r
 ### 📘 [Fraud Detection and Compliance Triggers](./usecases/fraud-detection-and-prevention/README.md)
 Uses behavioral anomalies, transaction metadata, and rule-based compliance filters to flag potential fraud cases. Designed to demonstrate O1’s interpretability in high-stakes forensic audits and compliance workflows.
 
-# Executing the notebook to compare model outputs
+---
+
+# Executing the Notebook to Compare Model Outputs
 
 To run the notebook, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
     ```sh
     git clone https://github.com/dhangerkapil/reasoning-llms-usecases-fsi.git
     cd reasoning-llms-usecases-fsi
     ```
 
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
     ```sh
     # For Linux/macOS:
     python3 -m venv venv
@@ -66,12 +71,12 @@ To run the notebook, follow these steps:
     .\venv\Scripts\activate
     ```
 
-3. Install the required dependencies:
+3. **Install the required dependencies:**
     ```sh
     pip install -r requirements.txt
     ```
 
-4. Copy the `env_sample` file to `.env` and add your Azure OpenAI endpoint and API key:
+4. **Copy the `env_sample` file to `.env` and add your Azure OpenAI endpoint and API key:**
     ```sh
     cp env_sample .env
     ```
@@ -82,4 +87,4 @@ To run the notebook, follow these steps:
     AZURE_OPENAI_API_KEY=your_api_key
     ```
 
-5. Follow the instructions in the notebook to execute the cells and observe the results.
+5. **Follow the instructions in the notebook to execute the cells and observe the results.**
