@@ -3,6 +3,7 @@
 This workshop covers uses of Reasoning Models. The workshop includes several example use cases demonstrating how to implement reasoning-based solutions for various business scenarios.
 
 ## Setup Instructions
+
 To get started with this workshop:
 
 1. Visit the [GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop)
@@ -12,8 +13,22 @@ To get started with this workshop:
     - Set up your Azure OpenAI endpoint and API key
     - Configure your environment
 
-## Workshop Materials
-All workshop materials, including Jupyter notebooks, are available in the [GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop):
+## Prerequisites
+
+Before starting:
+
+1. Ensure you have an Azure account with OpenAI access
+2. Install required Python packages:
+    ```bash
+    pip install openai azure-identity python-dotenv
+    ```
+3. Set up your `.env` file with:
+    ```
+    AZURE_OPENAI_ENDPOINT=your_endpoint
+    AZURE_OPENAI_API_KEY=your_key
+    ```
+
+## Workshop Notebooks
 
 ### 1. Setup & Environment (00-setup-aoai.ipynb)
 
@@ -114,21 +129,7 @@ Compare GPT and Reasoning models across various tasks:
   </li>
 </ul>
 
-## Prerequisites
-
-Before starting:
-1. Ensure you have an Azure account with OpenAI access
-2. Install required Python packages:
-    ```bash
-    pip install openai azure-identity python-dotenv
-    ```
-3. Set up your `.env` file with:
-    ```
-    AZURE_OPENAI_ENDPOINT=your_endpoint
-    AZURE_OPENAI_API_KEY=your_key
-    ```
-
-## Use case model evaluation
+## Use Case Model Evaluation
 
 When working with these use cases:
 
