@@ -97,14 +97,22 @@ Compare GPT and Reasoning models across various tasks:
 - **Multi-Dataset Synthesis**: Data integration and patterns
 
 #### Usage Guidelines
-- Choose **GPT Models** for:
-  - General text generation
-  - Creative tasks
-  - Simple Q&A
-- Choose **Reasoning Models** for:
-  - Complex analysis
-  - Multi-step reasoning
-  - Structured outputs
+<ul>
+  <li>Choose <strong>GPT Models</strong> for:
+    <ul>
+      <li>General text generation</li>
+      <li>Creative tasks</li>
+      <li>Simple Q&amp;A</li>
+    </ul>
+  </li>
+  <li>Choose <strong>Reasoning Models</strong> for:
+    <ul>
+      <li>Complex analysis</li>
+      <li>Multi-step reasoning</li>
+      <li>Structured outputs</li>
+    </ul>
+  </li>
+</ul>
 
 ## Prerequisites
 
@@ -119,6 +127,26 @@ Before starting:
    AZURE_OPENAI_ENDPOINT=your_endpoint
    AZURE_OPENAI_API_KEY=your_key
    ```
+
+## Use case model evaluation
+
+When working with these use cases:
+
+1. Start with the README.md in each directory
+2. Review the prompt.md file to understand the input format
+3. Study the in-depth analysis for detailed Analysis
+4. Use Model Comparison (03-model-comparison.ipynb) to compare reasoning model and GPT model outputs using multi dimension evaluation criteria
+
+## Contributing
+
+Want to add a new use case? Follow these steps:
+
+1. Create a new directory under `usecases/`
+2. Include:
+   - README.md with overview
+   - prompt.md with example prompts
+   - in-depth analysis document
+3. Submit a pull request
 
 ## Getting Help
 

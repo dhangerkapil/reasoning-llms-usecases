@@ -104,10 +104,6 @@ nav:
               - Overview: use-cases/customer-relationship-management/index.md
               - Prompt: use-cases/customer-relationship-management/prompt.md
               - Analysis: use-cases/customer-relationship-management/analysis.md
-          - Data Analysis:
-              - Overview: use-cases/data-analysis/index.md
-              - Prompt: use-cases/data-analysis/prompt.md
-              - Analysis: use-cases/data-analysis/analysis.md
           - Market Sentiment:
               - Overview: use-cases/market-sentiment-and-volatility-forecasting/index.md
               - Prompt: use-cases/market-sentiment-and-volatility-forecasting/prompt.md
@@ -121,3 +117,5 @@ nav:
               - Overview: use-cases/underwriting-analysis/index.md
               - Prompt: use-cases/underwriting-analysis/prompt.md
               - Analysis: use-cases/underwriting-analysis/analysis.md
+      - Use Case Model Evaluation: use-cases/model-evaluation.md
+      - Contributing: use-cases/contributing.md
