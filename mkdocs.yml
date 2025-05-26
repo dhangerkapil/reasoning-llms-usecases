@@ -73,44 +73,42 @@ nav:
       - Overview: getting-started/index.md
       - Setup from GitHub: https://github.com/dhangerkapil/reasoning-llms-workshop#getting-started
   - Use Cases:
-      - Overview: use-cases/index.md
-      - Implementation Details:
-          - Prompts:
-              - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/prompt.md
-              - Loan Agreement: use-cases/loan-agreement/prompt.md
-              - Portfolio Optimization: use-cases/portfolio-optimization/prompt.md
-              - Claims Processing: use-cases/insurance-claims-processing/prompt.md
-              - Insurance Plan: use-cases/insurance-plan/prompt.md
-              - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/prompt.md
-              - Customer Relationship: use-cases/customer-relationship-management/prompt.md
-              - Data Analysis: use-cases/data-analysis/prompt.md
-              - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/prompt.md
-              - Fraud Detection: use-cases/fraud-detection-and-prevention/prompt.md
-              - Underwriting Analysis: use-cases/underwriting-analysis/prompt.md
-          - Analysis:
-              - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/analysis.md
-              - Loan Agreement: use-cases/loan-agreement/analysis.md
-              - Portfolio Optimization: use-cases/portfolio-optimization/analysis.md
-              - Claims Processing: use-cases/insurance-claims-processing/analysis.md
-              - Insurance Plan: use-cases/insurance-plan/analysis.md
-              - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/analysis.md
-              - Customer Relationship: use-cases/customer-relationship-management/analysis.md
-              - Data Analysis: use-cases/data-analysis/analysis.md
-              - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/analysis.md
-              - Fraud Detection: use-cases/fraud-detection-and-prevention/analysis.md
-              - Underwriting Analysis: use-cases/underwriting-analysis/analysis.md
       - Financial Services:
-          - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/README.md
-          - Loan Agreement: use-cases/loan-agreement/README.md
-          - Portfolio Optimization: use-cases/portfolio-optimization/README.md
+          - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/index.md
+          - Loan Agreement: use-cases/loan-agreement/index.md
+          - Portfolio Optimization: use-cases/portfolio-optimization/index.md
       - Insurance:
-          - Claims Processing: use-cases/insurance-claims-processing/README.md
-          - Insurance Plan: use-cases/insurance-plan/README.md
-          - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/README.md
+          - Claims Processing: use-cases/insurance-claims-processing/index.md
+          - Insurance Plan: use-cases/insurance-plan/index.md
+          - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/index.md
       - Business Analytics:
-          - Customer Relationship: use-cases/customer-relationship-management/README.md
-          - Data Analysis: use-cases/data-analysis/README.md
-          - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/README.md
+          - Customer Relationship: use-cases/customer-relationship-management/index.md
+          - Data Analysis: use-cases/data-analysis/index.md
+          - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/index.md
       - Risk Management:
-          - Fraud Detection: use-cases/fraud-detection-and-prevention/README.md
-          - Underwriting Analysis: use-cases/underwriting-analysis/README.md
+          - Fraud Detection: use-cases/fraud-detection-and-prevention/index.md
+          - Underwriting Analysis: use-cases/underwriting-analysis/index.md
+      - Prompts:
+          - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/prompt.md
+          - Loan Agreement: use-cases/loan-agreement/prompt.md
+          - Portfolio Optimization: use-cases/portfolio-optimization/prompt.md
+          - Claims Processing: use-cases/insurance-claims-processing/prompt.md
+          - Insurance Plan: use-cases/insurance-plan/prompt.md
+          - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/prompt.md
+          - Customer Relationship: use-cases/customer-relationship-management/prompt.md
+          - Data Analysis: use-cases/data-analysis/prompt.md
+          - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/prompt.md
+          - Fraud Detection: use-cases/fraud-detection-and-prevention/prompt.md
+          - Underwriting Analysis: use-cases/underwriting-analysis/prompt.md
+      - Analysis:
+          - Credit Risk Assessment: use-cases/credit-risk-assessment-and-management/analysis.md
+          - Loan Agreement: use-cases/loan-agreement/analysis.md
+          - Portfolio Optimization: use-cases/portfolio-optimization/analysis.md
+          - Claims Processing: use-cases/insurance-claims-processing/analysis.md
+          - Insurance Plan: use-cases/insurance-plan/analysis.md
+          - Risk Assessment: use-cases/risk-assessment-for-underwriting-health-auto-life-property/analysis.md
+          - Customer Relationship: use-cases/customer-relationship-management/analysis.md
+          - Data Analysis: use-cases/data-analysis/analysis.md
+          - Market Sentiment: use-cases/market-sentiment-and-volatility-forecasting/analysis.md
+          - Fraud Detection: use-cases/fraud-detection-and-prevention/analysis.md
+          - Underwriting Analysis: use-cases/underwriting-analysis/analysis.md
