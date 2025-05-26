@@ -7,10 +7,10 @@ To get started with this workshop:
 
 1. Visit the [GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop)
 2. Follow the setup instructions in the README to:
-   - Clone the repository
-   - Install required dependencies
-   - Set up your Azure OpenAI endpoint and API key
-   - Configure your environment
+    - Clone the repository
+    - Install required dependencies
+    - Set up your Azure OpenAI endpoint and API key
+    - Configure your environment
 
 ## Workshop Materials
 All workshop materials, including Jupyter notebooks, are available in the [GitHub repository](https://github.com/dhangerkapil/reasoning-llms-workshop):
