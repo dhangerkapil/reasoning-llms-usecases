@@ -16,10 +16,10 @@ The workshop is organized into two main sections:
 1. **Setup & Environment** - Learn how to set up your Azure OpenAI environment and configure the necessary credentials.
 2. **Basic Text Reasoning** - Explore fundamental concepts of reasoning models using simple text-based examples.
 3. **Advanced Features** - Dive into advanced capabilities including:
-   - Developer Messages
-   - Structured Outputs
-   - Function Calling
-   - Vision Support
+    * Developer Messages - Set reasoning goals and context
+    * Structured Outputs - Generate formatted responses
+    * Function Calling - Integrate with external tools
+    * Vision Support - Process and analyze images
 4. **Model Comparison** - Compare outputs between GPT and Reasoning models across different tasks.
 
 ### Use Cases
