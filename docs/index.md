@@ -73,15 +73,23 @@ The notebooks demonstrate key capabilities of reasoning models:
 
 ## Prerequisites
 
-1. Azure Account with OpenAI access
-2. Python environment with required packages:
-   - openai
-   - azure-identity
-   - python-dotenv
-3. Basic understanding of:
-   - Python programming
-   - Jupyter notebooks
-   - Machine learning concepts
+<ol>
+  <li>Azure Account with OpenAI access</li>
+  <li>Python environment with required packages:
+    <ul>
+      <li>openai</li>
+      <li>azure-identity</li>
+      <li>python-dotenv</li>
+    </ul>
+  </li>
+  <li>Basic understanding of:
+    <ul>
+      <li>Python programming</li>
+      <li>Jupyter notebooks</li>
+      <li>Machine learning concepts</li>
+    </ul>
+  </li>
+</ol>
 
 The notebooks are self-contained with detailed explanations and examples to help you understand each concept thoroughly.
 
