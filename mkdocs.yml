@@ -109,22 +109,27 @@ nav:
       - Business Analytics:
           - Customer Relationship:
               - Overview: use-cases/customer-relationship-management/index.md
+              - Description: use-cases/customer-relationship-management/README.md
               - Prompt: use-cases/customer-relationship-management/prompt.md
               - Analysis: use-cases/customer-relationship-management/analysis.md
           - Data Analysis:
               - Overview: use-cases/data-analysis/index.md
+              - Description: use-cases/data-analysis/README.md
               - Prompt: use-cases/data-analysis/prompt.md
               - Analysis: use-cases/data-analysis/analysis.md
           - Market Sentiment:
               - Overview: use-cases/market-sentiment-and-volatility-forecasting/index.md
+              - Description: use-cases/market-sentiment-and-volatility-forecasting/README.md
               - Prompt: use-cases/market-sentiment-and-volatility-forecasting/prompt.md
               - Analysis: use-cases/market-sentiment-and-volatility-forecasting/analysis.md
       - Risk Management:
           - Fraud Detection:
               - Overview: use-cases/fraud-detection-and-prevention/index.md
+              - Description: use-cases/fraud-detection-and-prevention/README.md
               - Prompt: use-cases/fraud-detection-and-prevention/prompt.md
               - Analysis: use-cases/fraud-detection-and-prevention/analysis.md
           - Underwriting Analysis:
               - Overview: use-cases/underwriting-analysis/index.md
+              - Description: use-cases/underwriting-analysis/README.md
               - Prompt: use-cases/underwriting-analysis/prompt.md
               - Analysis: use-cases/underwriting-analysis/analysis.md
